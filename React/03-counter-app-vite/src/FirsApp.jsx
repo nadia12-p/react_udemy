@@ -1,3 +1,9 @@
+
 export const FirstApp = () => {
-    return <h1>FirstApp tarea</h1>
-}
+  return (
+    <>
+      <h1>Nadia</h1>
+      <p>Soy un subtitulo</p>
+    </>
+  );
+};
